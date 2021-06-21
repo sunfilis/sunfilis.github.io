@@ -9,7 +9,7 @@ h1 {
 	font-family: 'Lobster', cursive;
 	color: #F8C818;
 }
-p.head {
+.head p {
 	color: white;
 	background-color: #48C8C0;
 	font-family: 'Open Sans', sans-serif;
