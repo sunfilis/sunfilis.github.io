@@ -37,7 +37,7 @@ footer {
 	flex-wrap: wrap;
 	justify-content: center;
 	row-gap: 15px;
-	column-gap: 10px;
+	column-gap: 20px;
 }
 #first {
 	width: 50%;
