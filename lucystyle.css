@@ -1,0 +1,30 @@
+﻿body {
+	background-color: #7028C0;
+	margin: 0 auto;
+}
+.head {
+	text-align: center;
+}
+h1 {
+	font-family: 'Lobster', cursive;
+	color: #F8C818;
+}
+p.head {
+	color: white;
+	background-color: #48C8C0;
+	font-family: 'Open Sans', sans-serif;
+}
+footer {
+	background-color: #F090B8;
+	text-align: center;
+}
+footer p {
+	font-family: 'Raleway', sans-serif;
+	color: white;
+}
+.media {
+	display: inline-block;
+	width: 250px;
+	height: 300px;
+}
+
