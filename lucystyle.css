@@ -26,6 +26,7 @@ footer {
 .media {
 	display: flex;
 	flex-wrap: wrap;
+	justify-content: center;
 }
 #first {
 	width: 50%;
