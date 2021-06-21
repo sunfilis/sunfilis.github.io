@@ -25,12 +25,10 @@ footer {
 }
 .media {
 	display: flex;
-	width: 100%;
 }
 #first {
 	width: 50%;
 }
 #second {
 	flex-grow: 1;
-	height: 100%;
 }
