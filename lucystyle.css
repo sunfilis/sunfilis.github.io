@@ -23,11 +23,10 @@ footer {
 	font-style: italic;
 	background-color: #F090B8;
 }
-.wrapper {
-	display: flex;
+#first {
+	width: 50%;
+	float: left;
 }
-.media {
-	flex-basis: 100px;
-  	height: 100px;
-  	margin: 5px;
+#second {
+	margin-left: 50%;
 }
