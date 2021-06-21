@@ -7,9 +7,12 @@
 	min-width: 768px;
 }
 @media only screen and (max-width: 600px) {
-  .head {
-    font-size: 150%;
-  }
+	.head {
+        	font-size: 150%;
+        }
+        #first, #second {
+	  	width: 100%;
+	}
 }
 .head {
 	text-align: center;
