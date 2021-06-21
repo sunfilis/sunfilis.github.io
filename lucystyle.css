@@ -23,10 +23,12 @@ footer {
 	font-style: italic;
 	background-color: #F090B8;
 }
+.media {
+	display: flex;
+}
 #first {
 	width: 50%;
-	float: left;
 }
 #second {
-	margin-left: 50%;
+	flex-grow: 1;
 }
