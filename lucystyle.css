@@ -15,13 +15,13 @@ p {
 	font-family: 'Open Sans', sans-serif;
 }
 footer {
-	background-color: #F090B8;
 	text-align: center;
 }
 #byme {
 	font-family: 'Raleway', sans-serif;
 	color: white;
 	font-style: italic;
+	background-color: #F090B8;
 }
 .media {
 	display: inline-block;
