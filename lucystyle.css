@@ -2,6 +2,10 @@
 	background-color: #7028C0;
 	margin: 0 auto;
 }
+#content {
+	margin: 0 auto;
+	min-width: 768px;
+}
 .head {
 	text-align: center;
 }
