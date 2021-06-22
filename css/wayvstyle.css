@@ -1,1 +1,48 @@
-
+body {
+	background-color: #7028C0;
+	margin: 0 auto;
+}
+#content {
+	margin: 0 auto;
+	min-width: 768px;
+}
+@media only screen and (max-width: 600px) {
+	.head {
+        	font-size: 150%;
+        }
+}
+.head {
+	text-align: center;
+}
+h1 {
+	font-family: 'Lobster', cursive;
+	color: #F8C818;
+}
+p {
+	color: white;
+	background-color: #48C8C0;
+	font-family: 'Open Sans', sans-serif;
+}
+footer {
+	text-align: center;
+}
+#byme {
+	font-family: 'Raleway', sans-serif;
+	color: white;
+	font-style: italic;
+	background-color: #F090B8;
+}
+.media {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	row-gap: 15px;
+	column-gap: 20px;
+}
+#first {
+	width: 50%;
+}
+#second {
+	flex-grow: 1 1 0;
+	min-width: 0;
+}
