@@ -72,3 +72,6 @@ header li a {
 header h2 {
     margin-left: 40px;
 }
+a[href*='yangfulls'] {
+    color: #4858C8;
+}
