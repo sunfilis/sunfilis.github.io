@@ -10,11 +10,11 @@ body {
 }
 .head {
 	text-align: center;
-	font-size: 150%;
 }
 h1 {
 	font-family: 'Amatic SC', cursive;
 	color: #48394d;
+	font-size: 150%;
 }
 p {
 	color: white;
