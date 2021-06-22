@@ -8,6 +8,11 @@ body {
 	margin: 0 auto;
 	min-width: 768px;
 }
+@media only screen and (max-width: 600px) {
+	.head {
+        	font-size: 125%;
+        }
+}
 .head {
 	text-align: center;
 }
