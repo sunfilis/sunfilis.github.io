@@ -1,5 +1,5 @@
 body {
-	background-color: #7028C0;
+	background-color: #bfdff9;
 	margin: 0 auto;
 }
 #content {
@@ -16,11 +16,11 @@ body {
 }
 h1 {
 	font-family: 'Amatic SC', cursive;
-	color: #F8C818;
+	color: #48394d;
 }
 p {
 	color: white;
-	background-color: #48C8C0;
+	background-color: #9b979b;
 	font-family: 'Open Sans', sans-serif;
 }
 footer {
@@ -30,7 +30,7 @@ footer {
 	font-family: 'Raleway', sans-serif;
 	color: white;
 	font-style: italic;
-	background-color: #F090B8;
+	background-color: #8199ba;
 }
 .media {
 	display: flex;
