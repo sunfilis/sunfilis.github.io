@@ -21,7 +21,7 @@ h1 {
 	color: #F8C818;
 }
 p {
-	color: white;
+	color: black;
 	background-color: #48C8C0;
 	font-family: 'Open Sans', sans-serif;
 }
@@ -30,7 +30,7 @@ footer {
 }
 #byme {
 	font-family: 'Raleway', sans-serif;
-	color: white;
+	color: black;
 	font-style: italic;
 	background-color: #F090B8;
 }
