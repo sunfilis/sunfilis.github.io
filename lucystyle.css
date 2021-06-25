@@ -105,3 +105,7 @@ a[href*='yangfulls'] {
 .contents {
 	display: flex;
 }
+.info {
+	display: flex;
+	flex-direction: column;
+}
