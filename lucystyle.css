@@ -47,7 +47,7 @@ footer {
 	column-gap: 20px;
 }
 #first {
-	width: 50%;
+	width: 100%;
 }
 #second {
 	flex-grow: 1 1 0;
@@ -96,4 +96,12 @@ a[href*='yangfulls'] {
 }
 .socials * {
     display: inline;
+}
+.bio {
+	background-color: #48C8C0;
+    	border-radius: 10px;
+    	padding: 12px;
+}
+.contents {
+	display: flex;
 }
