@@ -93,3 +93,6 @@ a[href*='yangfulls'] {
 	margin-left: 20px;
 	margin-right: 20px;
 }
+.socials * {
+    display: inline;
+}
