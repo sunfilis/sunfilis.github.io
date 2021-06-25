@@ -82,6 +82,7 @@ a[href*='yangfulls'] {
 .bio h2 {
 	font-family: 'Lobster', cursive;
 	color: #60B4FD;
+	font-size: 125%;
 }
 .bio {
 	margin-left: 20px;
