@@ -9,9 +9,12 @@
 	min-width: 768px;
 }
 @media only screen and (max-width: 600px) {
-	.head {
+	.head h1 {
         	font-size: 150%;
         }
+	.head p {
+		font-size: 125%;
+	}
 	.bio {
 		font-size: 125%;
 	}
