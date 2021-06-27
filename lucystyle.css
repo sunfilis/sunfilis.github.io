@@ -22,10 +22,10 @@
 h1 {
 	font-family: 'Lobster', cursive;
 	color: #F8C818;
+	font-size: 60px;
 }
 p {
 	color: black;
-	background-color: #48C8C0;
 	font-family: 'Open Sans', sans-serif;
 	margin-bottom: 20px;
 }
@@ -36,7 +36,6 @@ footer {
 	font-family: 'Raleway', sans-serif;
 	color: black;
 	font-style: italic;
-	background-color: #F090B8;
 }
 .media {
 	display: flex;
@@ -45,6 +44,12 @@ footer {
 	justify-content: center;
 	row-gap: 15px;
 	column-gap: 20px;
+	min-width: 500px;
+	margin-bottom: 20px;
+	padding: 10px;
+	background-color: #48C8C0;
+	border-radius: 10px;
+	margin-left: 20px;
 }
 #first {
 	width: 100%;
@@ -67,12 +72,20 @@ header * {
     display: inline;
 }
 header li {
-    margin: 20px;
+	margin: 20px;
+	height: 67px;
+	padding-top: 25px;
+	padding-bottom: 25px;
 }
 header li a {
     color: black;
     text-decoration: none;
-    font-family: 'Raleway', sans-serif;
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	font-size: 18px;
+}
+#lucyheader {
+	border-bottom: 4px solid rgba(52, 51, 54, 0.76);
 }
 header h2 {
     margin-left: 40px;
@@ -86,7 +99,7 @@ a[href*='yangfulls'] {
 .bio h2,
 .socials h2 {
 	font-family: 'Lobster', cursive;
-	color: #60B4FD;
+	color: #ffffff;
 	font-size: 150%;
 }
 .bio,
@@ -98,14 +111,24 @@ a[href*='yangfulls'] {
     display: inline;
 }
 .bio {
-	background-color: #48C8C0;
-    	border-radius: 10px;
-    	padding: 12px;
+	background-color: #F090B8;
+    border-radius: 10px;
+	padding: 12px;
+	margin-bottom: 20px;
 }
 .contents {
 	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
 }
 .info {
 	display: flex;
 	flex-direction: column;
+	width: 50%;
+}
+.icons a {
+	color: #60b4fd;
+}
+.icons a:visited {
+	color: #4858C8;
 }
