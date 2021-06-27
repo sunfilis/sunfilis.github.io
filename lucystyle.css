@@ -16,7 +16,8 @@
 		font-size: 125%;
 	}
 	.info {
-		width: 650px;
+		margin-left: 0;
+		margin-right: 0;
 	}
 }
 .head {
