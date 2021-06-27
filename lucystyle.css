@@ -131,6 +131,7 @@ a[href*='yangfulls'] {
 }
 .icons a {
 	color: #60b4fd;
+	margin: auto 5px;
 }
 .icons a:visited {
 	color: #4858C8;
