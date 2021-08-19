@@ -15,6 +15,9 @@ body {
 	.lyrics {
 		flex-direction: column;
 	}
+	.lyrical {
+		font-size: 125%;
+	}
 }
 .head {
 	text-align: center;
