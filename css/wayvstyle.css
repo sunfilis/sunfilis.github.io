@@ -87,6 +87,7 @@ a[href*='yangfulls'] {
 .lyrics {
 	display: flex;
 	flex-wrap: wrap;
+	justify-content: center;
 }
 .column {
 	flex: 50%;
