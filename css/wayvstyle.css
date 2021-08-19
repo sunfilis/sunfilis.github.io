@@ -84,3 +84,9 @@ header h2 {
 a[href*='yangfulls'] {
     color: #445972;
 }
+.lyrics {
+	display: flex;
+}
+.column {
+	flex: 50%;
+}
