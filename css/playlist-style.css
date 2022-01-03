@@ -7,6 +7,16 @@
 body {
     font-family: Sans-Serif;
 }
+
+#legend {
+    position:absolute;
+    top:0;
+    right:0;
+}
+
+p {
+    color: #EFE9E7;
+}
   
 /* Remove margins and padding from the list */
 ul {
@@ -37,7 +47,7 @@ ul li:nth-child(odd) {
   
 /* Darker background-color on hover */
 ul li:hover {
-    background: #ddd;
+    background: #c2bfbf;
 }
   
 /* When clicked on, add a background color and strike out text */
