@@ -10,8 +10,11 @@ body {
 }
 @media only screen and (max-width: 600px) {
 	.head {
-        	font-size: 125%;
-        }
+        font-size: 125%;
+    }
+	.lyrics {
+		flex-direction: column;
+	}
 }
 .head {
 	text-align: center;
@@ -86,7 +89,22 @@ a[href*='yangfulls'] {
 }
 .lyrics {
 	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
 }
-.column {
-	flex: 50%;
+.columnone {
+	flex-shrink: 0;
+	flex-basis: 50%;
+}
+.box {
+	text-align: center;
+}
+.lyrical {
+	background-color: transparent;
+	display: inline-block;
+	text-align: left;
+	width: 300px;
+}
+.one {
+	margin-bottom: 0px;
 }
